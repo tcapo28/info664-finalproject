@@ -4,6 +4,7 @@ This project details a process of extracting subtitles from a large amount of vi
 
 In many fandom spaces, but especially in K-pop, artist live streams are a popular form of content and audience engagement. A lot of information is contained within these extensive conversational sessions. For groups with a long history, this can be hundreds of hours worth of information. Debates often occur among fans about what has or has not been said, clarified, or discussed. Rather than relying on memory or trying to scrub through hours of video content, a subtitle repository can be created to search through via keywords to help interested fans find what they're looking for fast. K-pop content, given its international audience, is particularly equipped to have a repository like this built due to the commonplace use of subtitles. Furthermore, with an archive as extensive as the VLIVE Archive, a huge amount of data can be gathered for many groups quickly.
 
+- requests
 - bs4 / Beautiful Soup
 - WEBVTT
 - io / StringIO
